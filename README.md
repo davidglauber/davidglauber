@@ -2,7 +2,9 @@
 
 ### I am David Glauber, a dedicated devoloper ready to work with you and your team  💻💻💻 ###
 
-![CodeForPassion](https://media.giphy.com/media/7PdBl8sQLJUz4Q19oo/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/7PdBl8sQLJUz4Q19oo/giphy.gif" />
+</p>
 
 <br/>
 
